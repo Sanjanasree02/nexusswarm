@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nexusswarm/static/css/main.35f714ec.css",
+    "main.js": "/nexusswarm/static/js/main.aafa0f1d.js",
+    "static/js/453.13bb079e.chunk.js": "/nexusswarm/static/js/453.13bb079e.chunk.js",
+    "static/media/bg3.png": "/nexusswarm/static/media/bg3.8fbdab9868c342e77c4c.png",
+    "static/media/Ans (2).png": "/nexusswarm/static/media/Ans (2).ced1d0a674ef81e11bac.png",
+    "static/media/favicon.jpg": "/nexusswarm/static/media/favicon.018ee5eb6b9e4dd2ca4a.jpg",
+    "index.html": "/nexusswarm/index.html",
+    "main.35f714ec.css.map": "/nexusswarm/static/css/main.35f714ec.css.map",
+    "main.aafa0f1d.js.map": "/nexusswarm/static/js/main.aafa0f1d.js.map",
+    "453.13bb079e.chunk.js.map": "/nexusswarm/static/js/453.13bb079e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f714ec.css",
+    "static/js/main.aafa0f1d.js"
+  ]
+}
